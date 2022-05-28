@@ -1,0 +1,24 @@
+-f /usr/share/pip-wheels
+aiohttp==3.8.1
+aiosignal==1.2.0
+asgiref==3.5.2
+async-timeout==4.0.2
+attrs==21.4.0
+backports.zoneinfo==0.2.1
+beautifulsoup4==4.11.1
+bs4==0.0.1
+certifi==2022.5.18.1
+charset-normalizer==2.0.12
+Django==4.0.4
+frozenlist==1.3.0
+idna==3.3
+multidict==6.0.2
+gunicorn==20.1.0
+PySocks==1.7.1
+requests==2.27.1
+soupsieve==2.3.2.post1
+sqlparse==0.4.2
+tqdm==4.64.0
+urllib3==1.26.9
+yarl==1.7.2
+zippyshare-downloader==0.3.1
