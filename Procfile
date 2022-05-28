@@ -1,1 +1,1 @@
-web: gunicorn meganeiapi.wsgi --log-file -
+web: gunicorn meganeiapi.wsgi
